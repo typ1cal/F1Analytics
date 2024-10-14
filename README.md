@@ -50,12 +50,14 @@ A line graph showing how driver standings (points) change over time across multi
 
 ### 2. Team Championships Standings
 A bar chart comparing the championship standings of various teams across seasons. This helps identify dominant teams and their performance trends over the years.
-![image](https://github.com/user-attachments/assets/0aaada9a-6516-4fe4-a54e-0ceb51de0f34)
+![image](https://github.com/user-attachments/assets/229c29f5-987e-42bb-a719-aa77b244da7d)
 
-### 3. Fastest Lap Analysis
-A scatter plot visualizing the fastest laps achieved in various Grand Prix races, providing insights into track conditions, driver speed, and team performance.
 
-![image](https://github.com/user-attachments/assets/56c58362-c79f-4a28-8718-ce1ab4d1644d)
+### 3. Average Lap Analysis
+A scatter plot visualizing the average laps achieved in various Grand Prix races, providing insights into track conditions, driver speed, and team performance.
+
+![image](https://github.com/user-attachments/assets/9ada2ea3-f4bf-4776-95c7-7396063b9d4e)
+
 
 
 ## Project Structure
